@@ -1,0 +1,5874 @@
+{
+    "rafpea": {
+        "shortTerm": [
+            {
+                "initialDate": "31/01/2012",
+                "finalDate": "30/04/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.28,
+                    "porvenir": 4.79,
+                    "oldmutual": 5.36,
+                    "colfondos": 4.76
+                }
+            },
+            {
+                "initialDate": "29/02/2012",
+                "finalDate": "31/05/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.25,
+                    "porvenir": 4.85,
+                    "oldmutual": 4.76,
+                    "colfondos": 4.75
+                }
+            },
+            {
+                "initialDate": "31/03/2012",
+                "finalDate": "30/06/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.18,
+                    "porvenir": 4.79,
+                    "oldmutual": 4.44,
+                    "colfondos": 4.47
+                }
+            },
+            {
+                "initialDate": "30/04/2012",
+                "finalDate": "31/07/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.30,
+                    "porvenir": 4.89,
+                    "oldmutual": 4.42,
+                    "colfondos": 4.50
+                }
+            },
+            {
+                "initialDate": "31/05/2012",
+                "finalDate": "31/08/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.37,
+                    "porvenir": 4.91,
+                    "oldmutual": 5.28,
+                    "colfondos": 4.57
+                }
+            },
+            {
+                "initialDate": "30/06/2012",
+                "finalDate": "30/09/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.36,
+                    "porvenir": 5.06,
+                    "oldmutual": 5.44,
+                    "colfondos": 4.72
+                }
+            },
+            {
+                "initialDate": "31/07/2012",
+                "finalDate": "31/10/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.27,
+                    "porvenir": 4.89,
+                    "oldmutual": 6.33,
+                    "colfondos": 4.72
+                }
+            },
+            {
+                "initialDate": "31/08/2012",
+                "finalDate": "30/11/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.12,
+                    "porvenir": 4.81,
+                    "oldmutual": 4.32,
+                    "colfondos": 4.63
+                }
+            },
+            {
+                "initialDate": "30/09/2012",
+                "finalDate": "31/12/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.18,
+                    "porvenir": 4.97,
+                    "oldmutual": 4.50,
+                    "colfondos": 5.00
+                }
+            },
+            {
+                "initialDate": "31/10/2012",
+                "finalDate": "31/01/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.88,
+                    "porvenir": 4.85,
+                    "oldmutual": 5.16,
+                    "colfondos": 5.45
+                }
+            },
+            {
+                "initialDate": "30/11/2012",
+                "finalDate": "28/02/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.91,
+                    "porvenir": 4.55,
+                    "oldmutual": 5.32,
+                    "colfondos": 4.13
+                }
+            },
+            {
+                "initialDate": "31/12/2012",
+                "finalDate": "31/03/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.74,
+                    "porvenir": 3.89,
+                    "oldmutual": 5.61,
+                    "colfondos": 3.80
+                }
+            },
+            {
+                "initialDate": "31/01/2013",
+                "finalDate": "30/04/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.32,
+                    "porvenir": 4.10,
+                    "oldmutual": 5.26,
+                    "colfondos": 3.89
+                }
+            },
+            {
+                "initialDate": "28/02/2013",
+                "finalDate": "31/05/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.66,
+                    "porvenir": 3.51,
+                    "oldmutual": 2.83,
+                    "colfondos": 3.54
+                }
+            },
+            {
+                "initialDate": "31/03/2013",
+                "finalDate": "30/06/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.64,
+                    "porvenir": 2.93,
+                    "oldmutual": 2.47,
+                    "colfondos": 2.53
+                }
+            },
+            {
+                "initialDate": "30/04/2013",
+                "finalDate": "31/07/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.32,
+                    "porvenir": 2.45,
+                    "oldmutual": 2.32,
+                    "colfondos": 1.98
+                }
+            },
+            {
+                "initialDate": "31/05/2013",
+                "finalDate": "31/08/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.30,
+                    "porvenir": 2.36,
+                    "oldmutual": 4.38,
+                    "colfondos": 2.36
+                }
+            },
+            {
+                "initialDate": "30/06/2013",
+                "finalDate": "30/09/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.78,
+                    "porvenir": 2.92,
+                    "oldmutual": 3.81,
+                    "colfondos": 3.70
+                }
+            },
+            {
+                "initialDate": "31/07/2013",
+                "finalDate": "31/10/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.90,
+                    "porvenir": 2.82,
+                    "oldmutual": 3.36,
+                    "colfondos": 4.70
+                }
+            },
+            {
+                "initialDate": "31/08/2013",
+                "finalDate": "30/11/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.27,
+                    "porvenir": 5.39,
+                    "oldmutual": 3.70,
+                    "colfondos": 3.62
+                }
+            },
+            {
+                "initialDate": "30/09/2013",
+                "finalDate": "31/12/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.03,
+                    "porvenir": 4.58,
+                    "oldmutual": 3.62,
+                    "colfondos": 3.24
+                }
+            },
+            {
+                "initialDate": "31/10/2013",
+                "finalDate": "31/01/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.07,
+                    "porvenir": 3.04,
+                    "oldmutual": 3.63,
+                    "colfondos": 3.29
+                }
+            },
+            {
+                "initialDate": "30/11/2013",
+                "finalDate": "28/02/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.09,
+                    "porvenir": 2.45,
+                    "oldmutual": 3.60,
+                    "colfondos": 3.08
+                }
+            },
+            {
+                "initialDate": "31/12/2013",
+                "finalDate": "31/03/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.44,
+                    "porvenir": 2.91,
+                    "oldmutual": 4.00,
+                    "colfondos": 3.02
+                }
+            },
+            {
+                "initialDate": "31/01/2014",
+                "finalDate": "30/04/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.42,
+                    "porvenir": 2.83,
+                    "oldmutual": 4.00,
+                    "colfondos": 2.88
+                }
+            },
+            {
+                "initialDate": "28/02/2014",
+                "finalDate": "31/05/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.34,
+                    "porvenir": 2.93,
+                    "oldmutual": 4.16,
+                    "colfondos": 2.72
+                }
+            },
+            {
+                "initialDate": "31/03/2014",
+                "finalDate": "30/06/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.07,
+                    "porvenir": 2.80,
+                    "oldmutual": 3.80,
+                    "colfondos": 2.63
+                }
+            },
+            {
+                "initialDate": "30/04/2014",
+                "finalDate": "31/07/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.98,
+                    "porvenir": 2.92,
+                    "oldmutual": 3.69,
+                    "colfondos": 2.74
+                }
+            },
+            {
+                "initialDate": "31/05/2014",
+                "finalDate": "31/08/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.24,
+                    "porvenir": 2.99,
+                    "oldmutual": 3.30,
+                    "colfondos": 2.95
+                }
+            },
+            {
+                "initialDate": "30/06/2014",
+                "finalDate": "30/09/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.32,
+                    "porvenir": 3.12,
+                    "oldmutual": 3.29,
+                    "colfondos": 3.06
+                }
+            },
+            {
+                "initialDate": "31/07/2014",
+                "finalDate": "31/10/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.62,
+                    "porvenir": 3.15,
+                    "oldmutual": 2.83,
+                    "colfondos": 3.29
+                }
+            },
+            {
+                "initialDate": "31/08/2014",
+                "finalDate": "30/11/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.00,
+                    "porvenir": 3.54,
+                    "oldmutual": 3.06,
+                    "colfondos": 3.73
+                }
+            },
+            {
+                "initialDate": "30/09/2014",
+                "finalDate": "31/12/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.10,
+                    "porvenir": 3.02,
+                    "oldmutual": 3.33,
+                    "colfondos": 3.67
+                }
+            },
+            {
+                "initialDate": "31/10/2014",
+                "finalDate": "31/01/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.95,
+                    "porvenir": 3.17,
+                    "oldmutual": 4.03,
+                    "colfondos": 3.83
+                }
+            },
+            {
+                "initialDate": "30/11/2014",
+                "finalDate": "28/02/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.65,
+                    "porvenir": 3.36,
+                    "oldmutual": 3.76,
+                    "colfondos": 3.20
+                }
+            },
+            {
+                "initialDate": "31/12/2014",
+                "finalDate": "31/03/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.70,
+                    "porvenir": 3.46,
+                    "oldmutual": 4.09,
+                    "colfondos": 3.89
+                }
+            },
+            {
+                "initialDate": "31/01/2015",
+                "finalDate": "30/04/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.70,
+                    "porvenir": 3.40,
+                    "oldmutual": 3.85,
+                    "colfondos": 3.80
+                }
+            },
+            {
+                "initialDate": "28/02/2015",
+                "finalDate": "31/05/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.72,
+                    "porvenir": 3.44,
+                    "oldmutual": 3.91,
+                    "colfondos": 3.87
+                }
+            },
+            {
+                "initialDate": "31/03/2015",
+                "finalDate": "30/06/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.70,
+                    "porvenir": 3.43,
+                    "oldmutual": 3.69,
+                    "colfondos": 3.60
+                }
+            },
+            {
+                "initialDate": "30/04/2015",
+                "finalDate": "31/07/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.68,
+                    "porvenir": 3.54,
+                    "oldmutual": 3.76,
+                    "colfondos": 3.59
+                }
+            },
+            {
+                "initialDate": "31/05/2015",
+                "finalDate": "31/08/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.62,
+                    "porvenir": 3.50,
+                    "oldmutual": 3.66,
+                    "colfondos": 3.59
+                }
+            },
+            {
+                "initialDate": "30/06/2015",
+                "finalDate": "30/09/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.62,
+                    "porvenir": 3.50,
+                    "oldmutual": 3.66,
+                    "colfondos": 3.59
+                }
+            },
+            {
+                "initialDate": "31/07/2015",
+                "finalDate": "31/10/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.58,
+                    "porvenir": 3.47,
+                    "oldmutual": 3.29,
+                    "colfondos": 3.41
+                }
+            },
+            {
+                "initialDate": "31/08/2015",
+                "finalDate": "30/11/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.30,
+                    "porvenir": 4.43,
+                    "oldmutual": 3.52,
+                    "colfondos": 3.81
+                }
+            },
+            {
+                "initialDate": "30/09/2015",
+                "finalDate": "31/12/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.88,
+                    "porvenir": 4.85,
+                    "oldmutual": 4.42,
+                    "colfondos": 4.41
+                }
+            },
+            {
+                "initialDate": "31/10/2015",
+                "finalDate": "31/01/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.53,
+                    "porvenir": 5.05,
+                    "oldmutual": 5.59,
+                    "colfondos": 4.75
+                }
+            },
+            {
+                "initialDate": "30/11/2015",
+                "finalDate": "29/02/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.72,
+                    "porvenir": 5.46,
+                    "oldmutual": 6.06,
+                    "colfondos": 5.54
+                }
+            },
+            {
+                "initialDate": "31/12/2015",
+                "finalDate": "31/03/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.10,
+                    "porvenir": 5.84,
+                    "oldmutual": 6.78,
+                    "colfondos": 5.98
+                }
+            },
+            {
+                "initialDate": "31/01/2016",
+                "finalDate": "30/04/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.27,
+                    "porvenir": 6.05,
+                    "oldmutual": 7.03,
+                    "colfondos": 6.09
+                }
+            },
+            {
+                "initialDate": "29/02/2016",
+                "finalDate": "31/05/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.60,
+                    "porvenir": 6.77,
+                    "oldmutual": 7.58,
+                    "colfondos": 6.34
+                }
+            },
+            {
+                "initialDate": "31/03/2016",
+                "finalDate": "30/06/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.85,
+                    "porvenir": 7.09,
+                    "oldmutual": 7.72,
+                    "colfondos": 6.64
+                }
+            },
+            {
+                "initialDate": "30/04/2016",
+                "finalDate": "31/07/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.20,
+                    "porvenir": 7.78,
+                    "oldmutual": 7.91,
+                    "colfondos": 7.11
+                }
+            },
+            {
+                "initialDate": "31/05/2016",
+                "finalDate": "31/08/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.29,
+                    "porvenir": 7.72,
+                    "oldmutual": 7.86,
+                    "colfondos": 7.62
+                }
+            },
+            {
+                "initialDate": "30/06/2016",
+                "finalDate": "30/09/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.52,
+                    "porvenir": 8.27,
+                    "oldmutual": 7.72,
+                    "colfondos": 7.82
+                }
+            },
+            {
+                "initialDate": "31/07/2016",
+                "finalDate": "31/10/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.64,
+                    "porvenir": 7.87,
+                    "oldmutual": 7.46,
+                    "colfondos": 7.98
+                }
+            },
+            {
+                "initialDate": "31/08/2016",
+                "finalDate": "30/11/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 9.11,
+                    "porvenir": 7.51,
+                    "oldmutual": 7.38,
+                    "colfondos": 7.18
+                }
+            },
+            {
+                "initialDate": "30/09/2016",
+                "finalDate": "31/12/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.68,
+                    "porvenir": 6.58,
+                    "oldmutual": 7.95,
+                    "colfondos": 6.84
+                }
+            },
+            {
+                "initialDate": "31/10/2016",
+                "finalDate": "31/01/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.43,
+                    "porvenir": 6.57,
+                    "oldmutual": 7.80,
+                    "colfondos": 6.84
+                }
+            },
+            {
+                "initialDate": "30/11/2016",
+                "finalDate": "28/02/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.75,
+                    "porvenir": 6.86,
+                    "oldmutual": 7.94,
+                    "colfondos": 6.82
+                }
+            },
+            {
+                "initialDate": "31/12/2016",
+                "finalDate": "31/03/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.50,
+                    "porvenir": 7.03,
+                    "oldmutual": 7.20,
+                    "colfondos": 6.97
+                }
+            },
+            {
+                "initialDate": "31/01/2017",
+                "finalDate": "30/04/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.22,
+                    "porvenir": 6.77,
+                    "oldmutual": 6.98,
+                    "colfondos": 6.78
+                }
+            },
+            {
+                "initialDate": "28/02/2017",
+                "finalDate": "31/05/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.02,
+                    "porvenir": 6.74,
+                    "oldmutual": 6.69,
+                    "colfondos": 6.64
+                }
+            },
+            {
+                "initialDate": "31/03/2017",
+                "finalDate": "30/06/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.51,
+                    "porvenir": 6.21,
+                    "oldmutual": 6.57,
+                    "colfondos": 6.19
+                }
+            },
+            {
+                "initialDate": "30/04/2017",
+                "finalDate": "31/07/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.00,
+                    "porvenir": 5.71,
+                    "oldmutual": 6.25,
+                    "colfondos": 5.64
+                }
+            },
+            {
+                "initialDate": "31/05/2017",
+                "finalDate": "31/08/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.28,
+                    "porvenir": 4.91,
+                    "oldmutual": 5.49,
+                    "colfondos": 5.08
+                }
+            },
+            {
+                "initialDate": "30/06/2017",
+                "finalDate": "30/09/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.97,
+                    "porvenir": 4.68,
+                    "oldmutual": 5.08,
+                    "colfondos": 4.70
+                }
+            },
+            {
+                "initialDate": "31/07/2017",
+                "finalDate": "31/10/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.55,
+                    "porvenir": 4.70,
+                    "oldmutual": 4.51,
+                    "colfondos": 4.69
+                }
+            },
+            {
+                "initialDate": "31/08/2017",
+                "finalDate": "30/11/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.45,
+                    "porvenir": 6.62,
+                    "oldmutual": 5.05,
+                    "colfondos": 5.04
+                }
+            },
+            {
+                "initialDate": "30/09/2017",
+                "finalDate": "31/12/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.75,
+                    "porvenir": 4.35,
+                    "oldmutual": 5.09,
+                    "colfondos": 4.83
+                }
+            },
+            {
+                "initialDate": "31/10/2017",
+                "finalDate": "31/01/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.52,
+                    "porvenir": 4.30,
+                    "oldmutual": 5.02,
+                    "colfondos": 4.73
+                }
+            },
+            {
+                "initialDate": "30/11/2017",
+                "finalDate": "28/02/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.44,
+                    "porvenir": 4.05,
+                    "oldmutual": 5.06,
+                    "colfondos": 4.00
+                }
+            },
+            {
+                "initialDate": "31/12/2017",
+                "finalDate": "31/03/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.61,
+                    "porvenir": 4.06,
+                    "oldmutual": 5.40,
+                    "colfondos": 4.06
+                }
+            },
+            {
+                "initialDate": "31/01/2018",
+                "finalDate": "30/04/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.47,
+                    "porvenir": 4.31,
+                    "oldmutual": 5.24,
+                    "colfondos": 3.96
+                }
+            },
+            {
+                "initialDate": "28/02/2018",
+                "finalDate": "31/05/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.61,
+                    "porvenir": 4.32,
+                    "oldmutual": 5.31,
+                    "colfondos": 3.87
+                }
+            },
+            {
+                "initialDate": "31/03/2018",
+                "finalDate": "30/06/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.22,
+                    "porvenir": 4.17,
+                    "oldmutual": 4.95,
+                    "colfondos": 3.73
+                }
+            }
+        ],
+        "longTerm": [
+            {
+                "initialDate": "31/01/2012",
+                "finalDate": "31/01/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.45,
+                    "porvenir": 2.12,
+                    "oldmutual": 2.08,
+                    "colfondos": 3.22
+                }
+            },
+            {
+                "initialDate": "29/02/2012",
+                "finalDate": "28/02/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.15,
+                    "porvenir": 1.75,
+                    "oldmutual": 2.05,
+                    "colfondos": 2.87
+                }
+            },
+            {
+                "initialDate": "31/03/2012",
+                "finalDate": "31/03/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.19,
+                    "porvenir": 3.49,
+                    "oldmutual": 3.69,
+                    "colfondos": 4.23
+                }
+            },
+            {
+                "initialDate": "30/04/2012",
+                "finalDate": "30/04/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.37,
+                    "porvenir": 2.71,
+                    "oldmutual": 2.89,
+                    "colfondos": 3.82
+                }
+            },
+            {
+                "initialDate": "31/05/2012",
+                "finalDate": "31/05/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.08,
+                    "porvenir": 3.30,
+                    "oldmutual": 3.81,
+                    "colfondos": 4.44
+                }
+            },
+            {
+                "initialDate": "30/06/2012",
+                "finalDate": "30/06/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.06,
+                    "porvenir": 4.34,
+                    "oldmutual": 4.79,
+                    "colfondos": 5.34
+                }
+            },
+            {
+                "initialDate": "31/07/2012",
+                "finalDate": "31/07/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.17,
+                    "porvenir": 3.46,
+                    "oldmutual": 3.81,
+                    "colfondos": 4.35
+                }
+            },
+            {
+                "initialDate": "31/08/2012",
+                "finalDate": "31/08/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.86,
+                    "porvenir": 3.94,
+                    "oldmutual": 4.82,
+                    "colfondos": 4.99
+                }
+            },
+            {
+                "initialDate": "30/09/2012",
+                "finalDate": "30/09/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.42,
+                    "porvenir": 2.69,
+                    "oldmutual": 3.32,
+                    "colfondos": 3.73
+                }
+            },
+            {
+                "initialDate": "31/10/2012",
+                "finalDate": "31/10/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.48,
+                    "porvenir": 1.74,
+                    "oldmutual": 2.43,
+                    "colfondos": 2.64
+                }
+            },
+            {
+                "initialDate": "30/11/2012",
+                "finalDate": "30/11/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.87,
+                    "porvenir": 2.14,
+                    "oldmutual": 2.92,
+                    "colfondos": 3.18
+                }
+            },
+            {
+                "initialDate": "31/12/2012",
+                "finalDate": "31/12/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.70,
+                    "porvenir": 1.86,
+                    "oldmutual": 2.28,
+                    "colfondos": 2.88
+                }
+            },
+            {
+                "initialDate": "31/01/2013",
+                "finalDate": "31/01/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.46,
+                    "porvenir": 0.65,
+                    "oldmutual": 1.17,
+                    "colfondos": 1.77
+                }
+            },
+            {
+                "initialDate": "28/02/2013",
+                "finalDate": "28/02/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.88,
+                    "porvenir": 1.00,
+                    "oldmutual": 1.54,
+                    "colfondos": 2.18
+                }
+            },
+            {
+                "initialDate": "31/03/2013",
+                "finalDate": "31/03/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.36,
+                    "porvenir": 1.32,
+                    "oldmutual": 1.75,
+                    "colfondos": 2.44
+                }
+            },
+            {
+                "initialDate": "30/04/2013",
+                "finalDate": "30/04/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.25,
+                    "porvenir": 2.00,
+                    "oldmutual": 2.96,
+                    "colfondos": 3.17
+                }
+            },
+            {
+                "initialDate": "31/05/2013",
+                "finalDate": "31/05/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.48,
+                    "porvenir": 2.14,
+                    "oldmutual": 3.56,
+                    "colfondos": 3.31
+                }
+            },
+            {
+                "initialDate": "30/06/2013",
+                "finalDate": "30/06/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.87,
+                    "porvenir": 3.66,
+                    "oldmutual": 4.85,
+                    "colfondos": 4.85
+                }
+            },
+            {
+                "initialDate": "31/07/2013",
+                "finalDate": "31/07/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.29,
+                    "porvenir": 4.13,
+                    "oldmutual": 5.22,
+                    "colfondos": 5.67
+                }
+            },
+            {
+                "initialDate": "31/08/2013",
+                "finalDate": "31/08/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.85,
+                    "porvenir": 2.75,
+                    "oldmutual": 4.23,
+                    "colfondos": 4.27
+                }
+            },
+            {
+                "initialDate": "30/09/2013",
+                "finalDate": "30/09/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.49,
+                    "porvenir": 1.37,
+                    "oldmutual": 2.72,
+                    "colfondos": 2.93
+                }
+            },
+            {
+                "initialDate": "31/10/2013",
+                "finalDate": "31/10/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.04,
+                    "porvenir": 1.59,
+                    "oldmutual": 3.14,
+                    "colfondos": 3.20
+                }
+            },
+            {
+                "initialDate": "30/11/2013",
+                "finalDate": "30/11/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.73,
+                    "porvenir": 2.23,
+                    "oldmutual": 3.75,
+                    "colfondos": 3.75
+                }
+            },
+            {
+                "initialDate": "31/12/2013",
+                "finalDate": "31/12/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.05,
+                    "porvenir": 2.37,
+                    "oldmutual": 3.96,
+                    "colfondos": 3.75
+                }
+            },
+            {
+                "initialDate": "31/01/2014",
+                "finalDate": "31/01/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.88,
+                    "porvenir": 3.13,
+                    "oldmutual": 4.67,
+                    "colfondos": 4.32
+                }
+            },
+            {
+                "initialDate": "28/02/2016",
+                "finalDate": "29/02/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.17,
+                    "porvenir": 2.56,
+                    "oldmutual": 3.88,
+                    "colfondos": 3.62
+                }
+            },
+            {
+                "initialDate": "31/03/2014",
+                "finalDate": "31/03/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.91,
+                    "porvenir": 2.52,
+                    "oldmutual": 3.80,
+                    "colfondos": 3.75
+                }
+            },
+            {
+                "initialDate": "30/04/2014",
+                "finalDate": "30/04/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.64,
+                    "porvenir": 2.33,
+                    "oldmutual": 3.76,
+                    "colfondos": 3.79
+                }
+            },
+            {
+                "initialDate": "31/05/2014",
+                "finalDate": "31/05/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.01,
+                    "porvenir": 2.79,
+                    "oldmutual": 3.85,
+                    "colfondos": 4.16
+                }
+            },
+            {
+                "initialDate": "30/06/2014",
+                "finalDate": "30/06/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.68,
+                    "porvenir": 2.18,
+                    "oldmutual": 3.51,
+                    "colfondos": 3.65
+                }
+            },
+            {
+                "initialDate": "31/07/2014",
+                "finalDate": "31/07/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.39,
+                    "porvenir": 3.06,
+                    "oldmutual": 4.41,
+                    "colfondos": 4.56
+                }
+            },
+            {
+                "initialDate": "31/08/2014",
+                "finalDate": "31/08/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.88,
+                    "porvenir": 2.59,
+                    "oldmutual": 4.00,
+                    "colfondos": 4.29
+                }
+            },
+            {
+                "initialDate": "30/09/2014",
+                "finalDate": "30/09/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.52,
+                    "porvenir": 2.95,
+                    "oldmutual": 4.62,
+                    "colfondos": 4.87
+                }
+            },
+            {
+                "initialDate": "31/10/2014",
+                "finalDate": "31/10/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.71,
+                    "porvenir": 3.25,
+                    "oldmutual": 4.81,
+                    "colfondos": 5.21
+                }
+            },
+            {
+                "initialDate": "30/11/2014",
+                "finalDate": "30/11/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.08,
+                    "porvenir": 2.86,
+                    "oldmutual": 4.09,
+                    "colfondos": 4.58
+                }
+            },
+            {
+                "initialDate": "31/12/2014",
+                "finalDate": "31/12/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.20,
+                    "porvenir": 3.07,
+                    "oldmutual": 4.55,
+                    "colfondos": 4.92
+                }
+            },
+            {
+                "initialDate": "31/01/2015",
+                "finalDate": "31/01/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.18,
+                    "porvenir": 3.76,
+                    "oldmutual": 5.23,
+                    "colfondos": 5.52
+                }
+            },
+            {
+                "initialDate": "28/02/2015",
+                "finalDate": "28/02/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.82,
+                    "porvenir": 3.35,
+                    "oldmutual": 4.73,
+                    "colfondos": 5.07
+                }
+            },
+            {
+                "initialDate": "31/03/2015",
+                "finalDate": "31/03/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.37,
+                    "porvenir": 4.02,
+                    "oldmutual": 5.31,
+                    "colfondos": 5.68
+                }
+            },
+            {
+                "initialDate": "30/04/2015",
+                "finalDate": "30/04/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.73,
+                    "porvenir": 4.46,
+                    "oldmutual": 5.27,
+                    "colfondos": 6.19
+                }
+            },
+            {
+                "initialDate": "31/05/2015",
+                "finalDate": "31/05/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.98,
+                    "porvenir": 5.58,
+                    "oldmutual": 6.24,
+                    "colfondos": 7.33
+                }
+            },
+            {
+                "initialDate": "30/06/2015",
+                "finalDate": "30/06/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.48,
+                    "porvenir": 6.14,
+                    "oldmutual": 7.18,
+                    "colfondos": 7.66
+                }
+            },
+            {
+                "initialDate": "31/07/2015",
+                "finalDate": "31/07/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.77,
+                    "porvenir": 5.36,
+                    "oldmutual": 6.39,
+                    "colfondos": 6.63
+                }
+            },
+            {
+                "initialDate": "31/08/2015",
+                "finalDate": "31/08/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.74,
+                    "porvenir": 6.34,
+                    "oldmutual": 7.21,
+                    "colfondos": 7.71
+                }
+            },
+            {
+                "initialDate": "30/09/2015",
+                "finalDate": "30/09/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.77,
+                    "porvenir": 7.31,
+                    "oldmutual": 8.31,
+                    "colfondos": 8.87
+                }
+            },
+            {
+                "initialDate": "31/10/2015",
+                "finalDate": "31/10/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.12,
+                    "porvenir": 6.78,
+                    "oldmutual": 7.69,
+                    "colfondos": 8.66
+                }
+            },
+            {
+                "initialDate": "30/11/2015",
+                "finalDate": "30/11/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.93,
+                    "porvenir": 7.62,
+                    "oldmutual": 8.53,
+                    "colfondos": 9.49
+                }
+            },
+            {
+                "initialDate": "31/12/2015",
+                "finalDate": "31/12/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.11,
+                    "porvenir": 7.91,
+                    "oldmutual": 8.76,
+                    "colfondos": 9.60
+                }
+            },
+            {
+                "initialDate": "31/01/2016",
+                "finalDate": "31/01/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 9.00,
+                    "porvenir": 8.58,
+                    "oldmutual": 9.32,
+                    "colfondos": 10.65
+                }
+            },
+            {
+                "initialDate": "29/02/2016",
+                "finalDate": "28/02/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.75,
+                    "porvenir": 7.46,
+                    "oldmutual": 8.40,
+                    "colfondos": 9.55
+                }
+            },
+            {
+                "initialDate": "31/03/2016",
+                "finalDate": "31/03/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.78,
+                    "porvenir": 5.27,
+                    "oldmutual": 6.08,
+                    "colfondos": 7.37
+                }
+            },
+            {
+                "initialDate": "30/04/2016",
+                "finalDate": "30/04/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.84,
+                    "porvenir": 6.35,
+                    "oldmutual": 7.19,
+                    "colfondos": 8.06
+                }
+            },
+            {
+                "initialDate": "31/05/2016",
+                "finalDate": "31/05/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.54,
+                    "porvenir": 6.13,
+                    "oldmutual": 7.12,
+                    "colfondos": 7.90
+                }
+            },
+            {
+                "initialDate": "30/06/2016",
+                "finalDate": "30/06/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.02,
+                    "porvenir": 6.67,
+                    "oldmutual": 7.29,
+                    "colfondos": 8.41
+                }
+            }
+        ]
+    },
+    "rafp": {
+        "nominalLongTerm": [
+            {
+                "initialDate": "31/01/2012",
+                "finalDate": "31/01/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.92,
+                    "porvenir": 4.30,
+                    "oldmutual": 4.20,
+                    "colfondos": 6.56
+                }
+            },
+            {
+                "initialDate": "29/02/2012",
+                "finalDate": "28/02/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.32,
+                    "porvenir": 3.53,
+                    "oldmutual": 4.14,
+                    "colfondos": 5.82
+                }
+            },
+            {
+                "initialDate": "31/03/2012",
+                "finalDate": "31/03/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.43,
+                    "porvenir": 7.10,
+                    "oldmutual": 7.51,
+                    "colfondos": 8.64
+                }
+            },
+            {
+                "initialDate": "30/04/2012",
+                "finalDate": "30/04/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.80,
+                    "porvenir": 5.49,
+                    "oldmutual": 5.86,
+                    "colfondos": 7.78
+                }
+            },
+            {
+                "initialDate": "31/05/2012",
+                "finalDate": "31/05/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.25,
+                    "porvenir": 6.70,
+                    "oldmutual": 7.76,
+                    "colfondos": 9.08
+                }
+            },
+            {
+                "initialDate": "30/06/2012",
+                "finalDate": "30/06/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.29,
+                    "porvenir": 8.87,
+                    "oldmutual": 9.81,
+                    "colfondos": 10.97
+                }
+            },
+            {
+                "initialDate": "31/07/2012",
+                "finalDate": "31/07/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.44,
+                    "porvenir": 7.04,
+                    "oldmutual": 7.76,
+                    "colfondos": 8.89
+                }
+            },
+            {
+                "initialDate": "31/08/2012",
+                "finalDate": "31/08/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.87,
+                    "porvenir": 8.05,
+                    "oldmutual": 9.87,
+                    "colfondos": 10.23
+                }
+            },
+            {
+                "initialDate": "30/09/2012",
+                "finalDate": "30/09/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.89,
+                    "porvenir": 5.45,
+                    "oldmutual": 6.74,
+                    "colfondos": 7.60
+                }
+            },
+            {
+                "initialDate": "31/10/2012",
+                "finalDate": "31/10/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.98,
+                    "porvenir": 3.52,
+                    "oldmutual": 6.74,
+                    "colfondos": 7.60
+                }
+            },
+            {
+                "initialDate": "30/11/2012",
+                "finalDate": "30/11/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.78,
+                    "porvenir": 4.32,
+                    "oldmutual": 5.93,
+                    "colfondos": 6.46
+                }
+            },
+            {
+                "initialDate": "31/12/2012",
+                "finalDate": "31/12/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.44,
+                    "porvenir": 3.75,
+                    "oldmutual": 4.60,
+                    "colfondos": 5.85
+                }
+            },
+            {
+                "initialDate": "31/01/2013",
+                "finalDate": "31/01/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.92,
+                    "porvenir": 1.30,
+                    "oldmutual": 2.35,
+                    "colfondos": 3.57
+                }
+            },
+            {
+                "initialDate": "28/02/2013",
+                "finalDate": "28/02/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.78,
+                    "porvenir": 2.02,
+                    "oldmutual": 3.10,
+                    "colfondos": 4.41
+                }
+            },
+            {
+                "initialDate": "31/03/2013",
+                "finalDate": "31/03/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.74,
+                    "porvenir": 2.65,
+                    "oldmutual": 3.54,
+                    "colfondos": 4.94
+                }
+            },
+            {
+                "initialDate": "30/04/2013",
+                "finalDate": "30/04/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.54,
+                    "porvenir": 4.03,
+                    "oldmutual": 6.01,
+                    "colfondos": 6.44
+                }
+            },
+            {
+                "initialDate": "31/05/2013",
+                "finalDate": "31/05/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.02,
+                    "porvenir": 4.33,
+                    "oldmutual": 7.52,
+                    "colfondos": 6.72
+                }
+            },
+            {
+                "initialDate": "30/06/2013",
+                "finalDate": "30/06/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.88,
+                    "porvenir": 7.44,
+                    "oldmutual": 9.94,
+                    "colfondos": 9.93
+                }
+            },
+            {
+                "initialDate": "31/07/2013",
+                "finalDate": "31/07/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.75,
+                    "porvenir": 8.43,
+                    "oldmutual": 10.72,
+                    "colfondos": 11.66
+                }
+            },
+            {
+                "initialDate": "31/08/2013",
+                "finalDate": "31/08/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.78,
+                    "porvenir": 5.57,
+                    "oldmutual": 8.64,
+                    "colfondos": 8.73
+                }
+            },
+            {
+                "initialDate": "30/09/2013",
+                "finalDate": "30/09/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.00,
+                    "porvenir": 2.76,
+                    "oldmutual": 5.51,
+                    "colfondos": 5.94
+                }
+            },
+            {
+                "initialDate": "31/10/2013",
+                "finalDate": "31/10/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.12,
+                    "porvenir": 3.20,
+                    "oldmutual": 6.38,
+                    "colfondos": 6.50
+                }
+            },
+            {
+                "initialDate": "30/11/2013",
+                "finalDate": "30/11/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.53,
+                    "porvenir": 4.51,
+                    "oldmutual": 7.63,
+                    "colfondos": 7.64
+                }
+            },
+            {
+                "initialDate": "31/12/2013",
+                "finalDate": "31/12/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.20,
+                    "porvenir": 4.79,
+                    "oldmutual": 8.09,
+                    "colfondos": 7.65
+                }
+            },
+            {
+                "initialDate": "31/01/2014",
+                "finalDate": "31/01/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.92,
+                    "porvenir": 6.36,
+                    "oldmutual": 9.56,
+                    "colfondos": 8.83
+                }
+            },
+            {
+                "initialDate": "28/02/2016",
+                "finalDate": "29/02/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.45,
+                    "porvenir": 5.18,
+                    "oldmutual": 7.92,
+                    "colfondos": 7.39
+                }
+            },
+            {
+                "initialDate": "31/03/2014",
+                "finalDate": "31/03/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.91,
+                    "porvenir": 5.11,
+                    "oldmutual": 7.75,
+                    "colfondos": 7.65
+                }
+            },
+            {
+                "initialDate": "30/04/2014",
+                "finalDate": "30/04/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.35,
+                    "porvenir": 4.73,
+                    "oldmutual": 7.66,
+                    "colfondos": 7.73
+                }
+            },
+            {
+                "initialDate": "31/05/2014",
+                "finalDate": "31/05/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.12,
+                    "porvenir": 5.67,
+                    "oldmutual": 7.87,
+                    "colfondos": 8.51
+                }
+            },
+            {
+                "initialDate": "30/06/2014",
+                "finalDate": "30/06/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.45,
+                    "porvenir": 4.40,
+                    "oldmutual": 7.15,
+                    "colfondos": 7.44
+                }
+            },
+            {
+                "initialDate": "31/07/2014",
+                "finalDate": "31/07/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.91,
+                    "porvenir": 6.22,
+                    "oldmutual": 9.02,
+                    "colfondos": 9.35
+                }
+            },
+            {
+                "initialDate": "31/08/2014",
+                "finalDate": "31/08/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.84,
+                    "porvenir": 5.25,
+                    "oldmutual": 8.17,
+                    "colfondos": 8.77
+                }
+            },
+            {
+                "initialDate": "30/09/2014",
+                "finalDate": "30/09/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.16,
+                    "porvenir": 5.99,
+                    "oldmutual": 9.46,
+                    "colfondos": 9.99
+                }
+            },
+            {
+                "initialDate": "31/10/2014",
+                "finalDate": "31/10/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.58,
+                    "porvenir": 6.62,
+                    "oldmutual": 9.86,
+                    "colfondos": 10.70
+                }
+            },
+            {
+                "initialDate": "30/11/2014",
+                "finalDate": "30/11/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.26,
+                    "porvenir": 5.82,
+                    "oldmutual": 8.35,
+                    "colfondos": 9.38
+                }
+            },
+            {
+                "initialDate": "31/12/2014",
+                "finalDate": "31/12/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.51,
+                    "porvenir": 6.25,
+                    "oldmutual": 9.32,
+                    "colfondos": 10.10
+                }
+            },
+            {
+                "initialDate": "31/01/2015",
+                "finalDate": "31/01/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.54,
+                    "porvenir": 7.67,
+                    "oldmutual": 10.75,
+                    "colfondos": 11.36
+                }
+            },
+            {
+                "initialDate": "28/02/2015",
+                "finalDate": "28/02/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.81,
+                    "porvenir": 6.83,
+                    "oldmutual": 9.70,
+                    "colfondos": 10.42
+                }
+            },
+            {
+                "initialDate": "31/03/2015",
+                "finalDate": "31/03/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.94,
+                    "porvenir": 8.20,
+                    "oldmutual": 10.91,
+                    "colfondos": 11.71
+                }
+            },
+            {
+                "initialDate": "30/04/2015",
+                "finalDate": "30/04/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 9.69,
+                    "porvenir": 9.14,
+                    "oldmutual": 10.84,
+                    "colfondos": 12.78
+                }
+            },
+            {
+                "initialDate": "31/05/2015",
+                "finalDate": "31/05/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 12.33,
+                    "porvenir": 11.49,
+                    "oldmutual": 12.88,
+                    "colfondos": 15.23
+                }
+            },
+            {
+                "initialDate": "30/06/2015",
+                "finalDate": "30/06/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.39,
+                    "porvenir": 12.68,
+                    "oldmutual": 14.91,
+                    "colfondos": 15.93
+                }
+            },
+            {
+                "initialDate": "31/07/2015",
+                "finalDate": "31/07/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 11.89,
+                    "porvenir": 11.02,
+                    "oldmutual": 13.21,
+                    "colfondos": 13.72
+                }
+            },
+            {
+                "initialDate": "31/08/2015",
+                "finalDate": "31/08/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.95,
+                    "porvenir": 13.10,
+                    "oldmutual": 14.96,
+                    "colfondos": 16.04
+                }
+            },
+            {
+                "initialDate": "30/09/2015",
+                "finalDate": "30/09/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 16.17,
+                    "porvenir": 15.17,
+                    "oldmutual": 17.35,
+                    "colfondos": 18.56
+                }
+            },
+            {
+                "initialDate": "31/10/2015",
+                "finalDate": "31/10/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 14.77,
+                    "porvenir": 14.04,
+                    "oldmutual": 15.99,
+                    "colfondos": 18.10
+                }
+            },
+            {
+                "initialDate": "30/11/2015",
+                "finalDate": "30/11/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 16.51,
+                    "porvenir": 15.84,
+                    "oldmutual": 17.81,
+                    "colfondos": 19.91
+                }
+            },
+            {
+                "initialDate": "31/12/2015",
+                "finalDate": "31/12/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 16.90,
+                    "porvenir": 16.47,
+                    "oldmutual": 18.31,
+                    "colfondos": 20.15
+                }
+            },
+            {
+                "initialDate": "31/01/2016",
+                "finalDate": "31/01/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 18.84,
+                    "porvenir": 17.92,
+                    "oldmutual": 19.54,
+                    "colfondos": 22.47
+                }
+            },
+            {
+                "initialDate": "29/02/2016",
+                "finalDate": "28/02/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 16.10,
+                    "porvenir": 15.48,
+                    "oldmutual": 17.51,
+                    "colfondos": 20.01
+                }
+            },
+            {
+                "initialDate": "31/03/2016",
+                "finalDate": "31/03/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 11.89,
+                    "porvenir": 10.82,
+                    "oldmutual": 12.53,
+                    "colfondos": 15.28
+                }
+            },
+            {
+                "initialDate": "30/04/2016",
+                "finalDate": "30/04/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 14.14,
+                    "porvenir": 13.09,
+                    "oldmutual": 14.91,
+                    "colfondos": 16.77
+                }
+            },
+            {
+                "initialDate": "31/05/2016",
+                "finalDate": "31/05/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.51,
+                    "porvenir": 12.64,
+                    "oldmutual": 14.75,
+                    "colfondos": 16.42
+                }
+            },
+            {
+                "initialDate": "30/06/2016",
+                "finalDate": "30/06/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 14.53,
+                    "porvenir": 13.78,
+                    "oldmutual": 15.12,
+                    "colfondos": 17.53
+                }
+            }
+        ],
+        "nominalGerencyLongTerm": [
+            {
+                "initialDate": "31/01/2012",
+                "finalDate": "31/01/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.50,
+                    "porvenir": 8.11,
+                    "oldmutual": 9.15,
+                    "colfondos": 8.50
+                }
+            },
+            {
+                "initialDate": "29/02/2012",
+                "finalDate": "28/02/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.40,
+                    "porvenir": 8.37,
+                    "oldmutual": 8.72,
+                    "colfondos": 7.81
+                }
+            },
+            {
+                "initialDate": "31/03/2012",
+                "finalDate": "31/03/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.24,
+                    "porvenir": 8.17,
+                    "oldmutual": 8.64,
+                    "colfondos": 7.77
+                }
+            },
+            {
+                "initialDate": "30/04/2012",
+                "finalDate": "30/04/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.01,
+                    "porvenir": 7.60,
+                    "oldmutual": 8.79,
+                    "colfondos": 8.00
+                }
+            },
+            {
+                "initialDate": "31/05/2012",
+                "finalDate": "31/05/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.90,
+                    "porvenir": 7.86,
+                    "oldmutual": 8.57,
+                    "colfondos": 7.28
+                }
+            },
+            {
+                "initialDate": "30/06/2012",
+                "finalDate": "30/06/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.69,
+                    "porvenir": 7.66,
+                    "oldmutual": 8.47,
+                    "colfondos": 7.29
+                }
+            },
+            {
+                "initialDate": "31/07/2012",
+                "finalDate": "31/07/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.41,
+                    "porvenir": 7.09,
+                    "oldmutual": 8.59,
+                    "colfondos": 7.54
+                }
+            },
+            {
+                "initialDate": "31/08/2012",
+                "finalDate": "31/08/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.35,
+                    "porvenir": 7.36,
+                    "oldmutual": 8.05,
+                    "colfondos": 6.86
+                }
+            },
+            {
+                "initialDate": "30/09/2012",
+                "finalDate": "30/09/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.16,
+                    "porvenir": 7.15,
+                    "oldmutual": 7.91,
+                    "colfondos": 6.86
+                }
+            },
+            {
+                "initialDate": "31/10/2012",
+                "finalDate": "31/10/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.98,
+                    "porvenir": 6.64,
+                    "oldmutual": 7.68,
+                    "colfondos": 7.17
+                }
+            },
+            {
+                "initialDate": "30/11/2012",
+                "finalDate": "30/11/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.80,
+                    "porvenir": 7.04,
+                    "oldmutual": 7.72,
+                    "colfondos": 6.63
+                }
+            },
+            {
+                "initialDate": "31/12/2012",
+                "finalDate": "31/12/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.89,
+                    "porvenir": 6.65,
+                    "oldmutual": 7.61,
+                    "colfondos": 6.52
+                }
+            },
+            {
+                "initialDate": "31/01/2013",
+                "finalDate": "31/01/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.74,
+                    "porvenir": 6.21,
+                    "oldmutual": 7.39,
+                    "colfondos": 6.75
+                }
+            },
+            {
+                "initialDate": "28/02/2013",
+                "finalDate": "28/02/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.49,
+                    "porvenir": 6.73,
+                    "oldmutual": 7.33,
+                    "colfondos": 6.39
+                }
+            },
+            {
+                "initialDate": "31/03/2013",
+                "finalDate": "31/03/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.62,
+                    "porvenir": 6.54,
+                    "oldmutual": 7.22,
+                    "colfondos": 6.54
+                }
+            },
+            {
+                "initialDate": "30/04/2013",
+                "finalDate": "30/04/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.59,
+                    "porvenir": 6.03,
+                    "oldmutual": 7.03,
+                    "colfondos": 6.73
+                }
+            },
+            {
+                "initialDate": "31/05/2013",
+                "finalDate": "31/05/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.51,
+                    "porvenir": 6.71,
+                    "oldmutual": 7.61,
+                    "colfondos": 6.48
+                }
+            },
+            {
+                "initialDate": "30/06/2013",
+                "finalDate": "30/06/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.90,
+                    "porvenir": 6.66,
+                    "oldmutual": 7.54,
+                    "colfondos": 6.82
+                }
+            },
+            {
+                "initialDate": "31/07/2013",
+                "finalDate": "31/07/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.94,
+                    "porvenir": 6.31,
+                    "oldmutual": 7.41,
+                    "colfondos": 7.15
+                }
+            },
+            {
+                "initialDate": "31/08/2013",
+                "finalDate": "31/08/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.85,
+                    "porvenir": 7.01,
+                    "oldmutual": 7.42,
+                    "colfondos": 6.80
+                }
+            },
+            {
+                "initialDate": "30/09/2013",
+                "finalDate": "30/09/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.12,
+                    "porvenir": 6.81,
+                    "oldmutual": 7.50,
+                    "colfondos": 6.79
+                }
+            },
+            {
+                "initialDate": "31/10/2013",
+                "finalDate": "31/10/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.12,
+                    "porvenir": 6.48,
+                    "oldmutual": 7.40,
+                    "colfondos": 6.82
+                }
+            },
+            {
+                "initialDate": "30/11/2013",
+                "finalDate": "30/11/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.11,
+                    "porvenir": 6.77,
+                    "oldmutual": 7.38,
+                    "colfondos": 6.85
+                }
+            },
+            {
+                "initialDate": "31/12/2013",
+                "finalDate": "31/12/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.60,
+                    "porvenir": 6.88,
+                    "oldmutual": 7.71,
+                    "colfondos": 7.09
+                }
+            },
+            {
+                "initialDate": "31/01/2014",
+                "finalDate": "31/01/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.76,
+                    "porvenir": 7.00,
+                    "oldmutual": 7.90,
+                    "colfondos": 7.20
+                }
+            },
+            {
+                "initialDate": "28/02/2016",
+                "finalDate": "29/02/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 7.80,
+                    "porvenir": 7.55,
+                    "oldmutual": 8.02,
+                    "colfondos": 7.49
+                }
+            },
+            {
+                "initialDate": "31/03/2014",
+                "finalDate": "31/03/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.29,
+                    "porvenir": 7.65,
+                    "oldmutual": 8.43,
+                    "colfondos": 7.86
+                }
+            },
+            {
+                "initialDate": "30/04/2014",
+                "finalDate": "30/04/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.49,
+                    "porvenir": 7.82,
+                    "oldmutual": 8.68,
+                    "colfondos": 8.02
+                }
+            },
+            {
+                "initialDate": "31/05/2014",
+                "finalDate": "31/05/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 8.64,
+                    "porvenir": 8.55,
+                    "oldmutual": 8.90,
+                    "colfondos": 8.43
+                }
+            },
+            {
+                "initialDate": "30/06/2014",
+                "finalDate": "30/06/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 9.27,
+                    "porvenir": 8.75,
+                    "oldmutual": 9.44,
+                    "colfondos": 8.89
+                }
+            },
+            {
+                "initialDate": "31/07/2014",
+                "finalDate": "31/07/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 9.60,
+                    "porvenir": 9.09,
+                    "oldmutual": 9.78,
+                    "colfondos": 9.16
+                }
+            },
+            {
+                "initialDate": "31/08/2014",
+                "finalDate": "31/08/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 9.70,
+                    "porvenir": 9.78,
+                    "oldmutual": 10.10,
+                    "colfondos": 9.65
+                }
+            },
+            {
+                "initialDate": "30/09/2014",
+                "finalDate": "30/09/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 10.37,
+                    "porvenir": 10.09,
+                    "oldmutual": 10.60,
+                    "colfondos": 10.14
+                }
+            },
+            {
+                "initialDate": "31/10/2014",
+                "finalDate": "31/10/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 10.66,
+                    "porvenir": 10.33,
+                    "oldmutual": 11.01,
+                    "colfondos": 10.39
+                }
+            },
+            {
+                "initialDate": "30/11/2014",
+                "finalDate": "30/11/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 11.29,
+                    "porvenir": 10.82,
+                    "oldmutual": 11.23,
+                    "colfondos": 10.55
+                }
+            },
+            {
+                "initialDate": "31/12/2014",
+                "finalDate": "31/12/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 11.58,
+                    "porvenir": 11.04,
+                    "oldmutual": 11.83,
+                    "colfondos": 10.98
+                }
+            },
+            {
+                "initialDate": "31/01/2015",
+                "finalDate": "31/01/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 11.84,
+                    "porvenir": 11.23,
+                    "oldmutual": 12.01,
+                    "colfondos": 11.19
+                }
+            },
+            {
+                "initialDate": "28/02/2015",
+                "finalDate": "28/02/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 12.36,
+                    "porvenir": 11.73,
+                    "oldmutual": 12.31,
+                    "colfondos": 11.49
+                }
+            },
+            {
+                "initialDate": "31/03/2015",
+                "finalDate": "31/03/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 12.57,
+                    "porvenir": 11.97,
+                    "oldmutual": 12.64,
+                    "colfondos": 11.78
+                }
+            },
+            {
+                "initialDate": "30/04/2015",
+                "finalDate": "30/04/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 12.75,
+                    "porvenir": 12.10,
+                    "oldmutual": 12.82,
+                    "colfondos": 11.96
+                }
+            },
+            {
+                "initialDate": "31/05/2015",
+                "finalDate": "31/05/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.25,
+                    "porvenir": 12.62,
+                    "oldmutual": 13.06,
+                    "colfondos": 12.23
+                }
+            },
+            {
+                "initialDate": "30/06/2015",
+                "finalDate": "30/06/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.32,
+                    "porvenir": 12.72,
+                    "oldmutual": 13.41,
+                    "colfondos": 12.47
+                }
+            },
+            {
+                "initialDate": "31/07/2015",
+                "finalDate": "31/07/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.38,
+                    "porvenir": 12.69,
+                    "oldmutual": 13.50,
+                    "colfondos": 12.51
+                }
+            },
+            {
+                "initialDate": "31/08/2015",
+                "finalDate": "31/08/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.70,
+                    "porvenir": 13.00,
+                    "oldmutual": 13.56,
+                    "colfondos": 12.64
+                }
+            },
+            {
+                "initialDate": "30/09/2015",
+                "finalDate": "30/09/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.69,
+                    "porvenir": 13.04,
+                    "oldmutual": 13.80,
+                    "colfondos": 12.77
+                }
+            },
+            {
+                "initialDate": "31/10/2015",
+                "finalDate": "31/10/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.65,
+                    "porvenir": 13.03,
+                    "oldmutual": 13.83,
+                    "colfondos": 12.86
+                }
+            },
+            {
+                "initialDate": "30/11/2015",
+                "finalDate": "30/11/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 14.01,
+                    "porvenir": 13.59,
+                    "oldmutual": 13.98,
+                    "colfondos": 12.97
+                }
+            },
+            {
+                "initialDate": "31/12/2015",
+                "finalDate": "31/12/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.66,
+                    "porvenir": 12.90,
+                    "oldmutual": 13.99,
+                    "colfondos": 12.89
+                }
+            },
+            {
+                "initialDate": "31/01/2016",
+                "finalDate": "31/01/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.38,
+                    "porvenir": 12.83,
+                    "oldmutual": 13.68,
+                    "colfondos": 12.85
+                }
+            },
+            {
+                "initialDate": "29/02/2016",
+                "finalDate": "28/02/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.66,
+                    "porvenir": 13.20,
+                    "oldmutual": 13.69,
+                    "colfondos": 12.55
+                }
+            },
+            {
+                "initialDate": "31/03/2016",
+                "finalDate": "31/03/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.24,
+                    "porvenir": 12.42,
+                    "oldmutual": 13.60,
+                    "colfondos": 12.36
+                }
+            },
+            {
+                "initialDate": "30/04/2016",
+                "finalDate": "30/04/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 12.89,
+                    "porvenir": 12.35,
+                    "oldmutual": 13.19,
+                    "colfondos": 12.28
+                }
+            },
+            {
+                "initialDate": "31/05/2016",
+                "finalDate": "31/05/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 13.12,
+                    "porvenir": 12.54,
+                    "oldmutual": 13.08,
+                    "colfondos": 11.88
+                }
+            },
+            {
+                "initialDate": "30/06/2016",
+                "finalDate": "30/06/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 12.54,
+                    "porvenir": 11.64,
+                    "oldmutual": 12.87,
+                    "colfondos": 11.59
+                }
+            }
+        ],
+        "acumulatedGerencyLongTerm": [
+            {
+                "initialDate": "31/01/2012",
+                "finalDate": "31/01/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.16,
+                    "porvenir": 3.97,
+                    "oldmutual": 4.47,
+                    "colfondos": 4.16
+                }
+            },
+            {
+                "initialDate": "29/02/2012",
+                "finalDate": "28/02/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.12,
+                    "porvenir": 4.10,
+                    "oldmutual": 4.27,
+                    "colfondos": 3.83
+                }
+            },
+            {
+                "initialDate": "31/03/2012",
+                "finalDate": "31/03/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.04,
+                    "porvenir": 4.01,
+                    "oldmutual": 4.23,
+                    "colfondos": 3.81
+                }
+            },
+            {
+                "initialDate": "30/04/2012",
+                "finalDate": "30/04/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.93,
+                    "porvenir": 3.73,
+                    "oldmutual": 4.30,
+                    "colfondos": 3.92
+                }
+            },
+            {
+                "initialDate": "31/05/2012",
+                "finalDate": "31/05/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.88,
+                    "porvenir": 3.86,
+                    "oldmutual": 4.20,
+                    "colfondos": 3.58
+                }
+            },
+            {
+                "initialDate": "30/06/2012",
+                "finalDate": "30/06/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.78,
+                    "porvenir": 3.76,
+                    "oldmutual": 4.15,
+                    "colfondos": 3.58
+                }
+            },
+            {
+                "initialDate": "31/07/2012",
+                "finalDate": "31/07/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.64,
+                    "porvenir": 3.48,
+                    "oldmutual": 4.21,
+                    "colfondos": 3.70
+                }
+            },
+            {
+                "initialDate": "31/08/2012",
+                "finalDate": "31/08/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.61,
+                    "porvenir": 3.62,
+                    "oldmutual": 3.95,
+                    "colfondos": 3.37
+                }
+            },
+            {
+                "initialDate": "30/09/2012",
+                "finalDate": "30/09/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.52,
+                    "porvenir": 3.51,
+                    "oldmutual": 3.88,
+                    "colfondos": 3.37
+                }
+            },
+            {
+                "initialDate": "31/10/2012",
+                "finalDate": "31/10/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.43,
+                    "porvenir": 3.27,
+                    "oldmutual": 3.77,
+                    "colfondos": 3.52
+                }
+            },
+            {
+                "initialDate": "30/11/2012",
+                "finalDate": "30/11/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.35,
+                    "porvenir": 3.46,
+                    "oldmutual": 3.79,
+                    "colfondos": 3.26
+                }
+            },
+            {
+                "initialDate": "31/12/2012",
+                "finalDate": "31/12/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.39,
+                    "porvenir": 3.27,
+                    "oldmutual": 3.73,
+                    "colfondos": 3.21
+                }
+            },
+            {
+                "initialDate": "31/01/2013",
+                "finalDate": "31/01/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.32,
+                    "porvenir": 3.06,
+                    "oldmutual": 3.63,
+                    "colfondos": 3.32
+                }
+            },
+            {
+                "initialDate": "28/02/2013",
+                "finalDate": "28/02/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.19,
+                    "porvenir": 3.31,
+                    "oldmutual": 3.60,
+                    "colfondos": 3.15
+                }
+            },
+            {
+                "initialDate": "31/03/2013",
+                "finalDate": "31/03/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.26,
+                    "porvenir": 3.22,
+                    "oldmutual": 3.55,
+                    "colfondos": 3.22
+                }
+            },
+            {
+                "initialDate": "30/04/2013",
+                "finalDate": "30/04/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.24,
+                    "porvenir": 2.97,
+                    "oldmutual": 3.46,
+                    "colfondos": 3.31
+                }
+            },
+            {
+                "initialDate": "31/05/2013",
+                "finalDate": "31/05/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.20,
+                    "porvenir": 3.30,
+                    "oldmutual": 3.74,
+                    "colfondos": 3.19
+                }
+            },
+            {
+                "initialDate": "30/06/2013",
+                "finalDate": "30/06/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.39,
+                    "porvenir": 3.28,
+                    "oldmutual": 3.70,
+                    "colfondos": 3.35
+                }
+            },
+            {
+                "initialDate": "31/07/2013",
+                "finalDate": "31/07/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.39,
+                    "porvenir": 3.28,
+                    "oldmutual": 3.70,
+                    "colfondos": 3.35
+                }
+            },
+            {
+                "initialDate": "31/08/2013",
+                "finalDate": "31/08/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.37,
+                    "porvenir": 3.45,
+                    "oldmutual": 3.65,
+                    "colfondos": 3.34
+                }
+            },
+            {
+                "initialDate": "30/09/2013",
+                "finalDate": "30/09/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.50,
+                    "porvenir": 3.35,
+                    "oldmutual": 3.68,
+                    "colfondos": 3.34
+                }
+            },
+            {
+                "initialDate": "31/10/2013",
+                "finalDate": "31/10/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.50,
+                    "porvenir": 3.19,
+                    "oldmutual": 3.63,
+                    "colfondos": 3.35
+                }
+            },
+            {
+                "initialDate": "30/11/2013",
+                "finalDate": "30/11/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.50,
+                    "porvenir": 3.33,
+                    "oldmutual": 3.62,
+                    "colfondos": 3.37
+                }
+            },
+            {
+                "initialDate": "31/12/2013",
+                "finalDate": "31/12/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.73,
+                    "porvenir": 3.38,
+                    "oldmutual": 3.78,
+                    "colfondos": 3.48
+                }
+            },
+            {
+                "initialDate": "31/01/2014",
+                "finalDate": "31/01/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.81,
+                    "porvenir": 3.44,
+                    "oldmutual": 3.88,
+                    "colfondos": 3.54
+                }
+            },
+            {
+                "initialDate": "28/02/2016",
+                "finalDate": "29/02/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 3.82,
+                    "porvenir": 3.70,
+                    "oldmutual": 3.93,
+                    "colfondos": 3.67
+                }
+            },
+            {
+                "initialDate": "31/03/2014",
+                "finalDate": "31/03/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.06,
+                    "porvenir": 3.75,
+                    "oldmutual": 4.12,
+                    "colfondos": 3.85
+                }
+            },
+            {
+                "initialDate": "30/04/2014",
+                "finalDate": "30/04/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.15,
+                    "porvenir": 3.83,
+                    "oldmutual": 4.25,
+                    "colfondos": 3.93
+                }
+            },
+            {
+                "initialDate": "31/05/2014",
+                "finalDate": "31/05/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.23,
+                    "porvenir": 4.18,
+                    "oldmutual": 4.35,
+                    "colfondos": 4.12
+                }
+            },
+            {
+                "initialDate": "30/06/2014",
+                "finalDate": "30/06/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.53,
+                    "porvenir": 4.28,
+                    "oldmutual": 4.61,
+                    "colfondos": 4.35
+                }
+            },
+            {
+                "initialDate": "31/07/2014",
+                "finalDate": "31/07/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.68,
+                    "porvenir": 4.44,
+                    "oldmutual": 4.77,
+                    "colfondos": 4.47
+                }
+            },
+            {
+                "initialDate": "31/08/2014",
+                "finalDate": "31/08/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 4.73,
+                    "porvenir": 4.77,
+                    "oldmutual": 4.92,
+                    "colfondos": 4.71
+                }
+            },
+            {
+                "initialDate": "30/09/2014",
+                "finalDate": "30/09/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.05,
+                    "porvenir": 4.92,
+                    "oldmutual": 5.16,
+                    "colfondos": 4.94
+                }
+            },
+            {
+                "initialDate": "31/10/2014",
+                "finalDate": "31/10/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.19,
+                    "porvenir": 5.03,
+                    "oldmutual": 5.35,
+                    "colfondos": 5.06
+                }
+            },
+            {
+                "initialDate": "30/11/2014",
+                "finalDate": "30/11/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.49,
+                    "porvenir": 5.26,
+                    "oldmutual": 5.46,
+                    "colfondos": 5.14
+                }
+            },
+            {
+                "initialDate": "31/12/2014",
+                "finalDate": "31/12/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.62,
+                    "porvenir": 5.37,
+                    "oldmutual": 5.74,
+                    "colfondos": 5.34
+                }
+            },
+            {
+                "initialDate": "31/01/2015",
+                "finalDate": "31/01/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.75,
+                    "porvenir": 5.46,
+                    "oldmutual": 5.83,
+                    "colfondos": 5.44
+                }
+            },
+            {
+                "initialDate": "28/02/2015",
+                "finalDate": "28/02/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 5.99,
+                    "porvenir": 5.70,
+                    "oldmutual": 5.97,
+                    "colfondos": 5.58
+                }
+            },
+            {
+                "initialDate": "31/03/2015",
+                "finalDate": "31/03/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.09,
+                    "porvenir": 5.81,
+                    "oldmutual": 6.12,
+                    "colfondos": 5.72
+                }
+            },
+            {
+                "initialDate": "30/04/2015",
+                "finalDate": "30/04/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.18,
+                    "porvenir": 5.87,
+                    "oldmutual": 6.21,
+                    "colfondos": 5.80
+                }
+            },
+            {
+                "initialDate": "31/05/2015",
+                "finalDate": "31/05/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.41,
+                    "porvenir": 6.11,
+                    "oldmutual": 6.32,
+                    "colfondos": 5.93
+                }
+            },
+            {
+                "initialDate": "30/06/2015",
+                "finalDate": "30/06/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.44,
+                    "porvenir": 6.16,
+                    "oldmutual": 6.49,
+                    "colfondos": 6.04
+                }
+            },
+            {
+                "initialDate": "31/07/2015",
+                "finalDate": "31/07/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.47,
+                    "porvenir": 6.15,
+                    "oldmutual": 6.53,
+                    "colfondos": 6.06
+                }
+            },
+            {
+                "initialDate": "31/08/2015",
+                "finalDate": "31/08/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.62,
+                    "porvenir": 6.29,
+                    "oldmutual": 6.56,
+                    "colfondos": 6.12
+                }
+            },
+            {
+                "initialDate": "30/09/2015",
+                "finalDate": "30/09/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.62,
+                    "porvenir": 6.31,
+                    "oldmutual": 6.67,
+                    "colfondos": 6.19
+                }
+            },
+            {
+                "initialDate": "31/10/2015",
+                "finalDate": "31/10/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.60,
+                    "porvenir": 6.31,
+                    "oldmutual": 6.68,
+                    "colfondos": 6.23
+                }
+            },
+            {
+                "initialDate": "30/11/2015",
+                "finalDate": "30/11/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.77,
+                    "porvenir": 6.57,
+                    "oldmutual": 6.75,
+                    "colfondos": 6.28
+                }
+            },
+            {
+                "initialDate": "31/12/2015",
+                "finalDate": "31/12/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.60,
+                    "porvenir": 6.25,
+                    "oldmutual": 6.76,
+                    "colfondos": 6.24
+                }
+            },
+            {
+                "initialDate": "31/01/2016",
+                "finalDate": "31/01/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.47,
+                    "porvenir": 6.21,
+                    "oldmutual": 6.61,
+                    "colfondos": 6.22
+                }
+            },
+            {
+                "initialDate": "29/02/2016",
+                "finalDate": "28/02/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.61,
+                    "porvenir": 6.39,
+                    "oldmutual": 6.63,
+                    "colfondos": 6.09
+                }
+            },
+            {
+                "initialDate": "31/03/2016",
+                "finalDate": "31/03/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.42,
+                    "porvenir": 6.03,
+                    "oldmutual": 6.59,
+                    "colfondos": 6.00
+                }
+            },
+            {
+                "initialDate": "30/04/2016",
+                "finalDate": "30/04/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.25,
+                    "porvenir": 6.00,
+                    "oldmutual": 6.39,
+                    "colfondos": 5.96
+                }
+            },
+            {
+                "initialDate": "31/05/2016",
+                "finalDate": "31/05/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.36,
+                    "porvenir": 6.08,
+                    "oldmutual": 6.34,
+                    "colfondos": 5.77
+                }
+            },
+            {
+                "initialDate": "30/06/2016",
+                "finalDate": "30/06/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 6.09,
+                    "porvenir": 5.66,
+                    "oldmutual": 6.24,
+                    "colfondos": 5.64
+                }
+            }
+        ],
+        "nominalGerencyShortTerm": [
+            {
+                "initialDate": "31/01/2012",
+                "finalDate": "30/04/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.28,
+                    "porvenir": 1.16,
+                    "oldmutual": 1.30,
+                    "colfondos": 1.15
+                }
+            },
+            {
+                "initialDate": "29/02/2012",
+                "finalDate": "31/05/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.30,
+                    "porvenir": 1.20,
+                    "oldmutual": 1.18,
+                    "colfondos": 1.18
+                }
+            },
+            {
+                "initialDate": "31/03/2012",
+                "finalDate": "30/06/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.27,
+                    "porvenir": 1.17,
+                    "oldmutual": 1.09,
+                    "colfondos": 1.10
+                }
+            },
+            {
+                "initialDate": "30/04/2012",
+                "finalDate": "31/07/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.31,
+                    "porvenir": 1.21,
+                    "oldmutual": 1.10,
+                    "colfondos": 1.12
+                }
+            },
+            {
+                "initialDate": "31/05/2012",
+                "finalDate": "31/08/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.33,
+                    "porvenir": 1.21,
+                    "oldmutual": 1.31,
+                    "colfondos": 1.13
+                }
+            },
+            {
+                "initialDate": "30/06/2012",
+                "finalDate": "30/09/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.32,
+                    "porvenir": 1.25,
+                    "oldmutual": 1.34,
+                    "colfondos": 1.17
+                }
+            },
+            {
+                "initialDate": "31/07/2012",
+                "finalDate": "31/10/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.30,
+                    "porvenir": 1.21,
+                    "oldmutual": 1.56,
+                    "colfondos": 1.17
+                }
+            },
+            {
+                "initialDate": "31/08/2012",
+                "finalDate": "30/11/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.25,
+                    "porvenir": 1.18,
+                    "oldmutual": 1.06,
+                    "colfondos": 1.13
+                }
+            },
+            {
+                "initialDate": "30/09/2012",
+                "finalDate": "31/12/2012",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.28,
+                    "porvenir": 1.23,
+                    "oldmutual": 1.12,
+                    "colfondos": 1.24
+                }
+            },
+            {
+                "initialDate": "31/10/2012",
+                "finalDate": "31/01/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.21,
+                    "porvenir": 1.20,
+                    "oldmutual": 1.28,
+                    "colfondos": 1.35
+                }
+            },
+            {
+                "initialDate": "30/11/2012",
+                "finalDate": "28/02/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.19,
+                    "porvenir": 1.10,
+                    "oldmutual": 1.29,
+                    "colfondos": 1.00
+                }
+            },
+            {
+                "initialDate": "31/12/2012",
+                "finalDate": "31/03/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.15,
+                    "porvenir": 0.95,
+                    "oldmutual": 1.35,
+                    "colfondos": 0.92
+                }
+            },
+            {
+                "initialDate": "31/01/2013",
+                "finalDate": "30/04/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.04,
+                    "porvenir": 0.99,
+                    "oldmutual": 1.26,
+                    "colfondos": 0.94
+                }
+            },
+            {
+                "initialDate": "28/02/2013",
+                "finalDate": "31/05/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.91,
+                    "porvenir": 0.87,
+                    "oldmutual": 0.71,
+                    "colfondos": 0.88
+                }
+            },
+            {
+                "initialDate": "31/03/2013",
+                "finalDate": "30/06/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.65,
+                    "porvenir": 0.72,
+                    "oldmutual": 0.61,
+                    "colfondos": 0.62
+                }
+            },
+            {
+                "initialDate": "30/04/2013",
+                "finalDate": "31/07/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.58,
+                    "porvenir": 0.61,
+                    "oldmutual": 0.58,
+                    "colfondos": 0.50
+                }
+            },
+            {
+                "initialDate": "31/05/2013",
+                "finalDate": "31/08/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.58,
+                    "porvenir": 0.59,
+                    "oldmutual": 1.09,
+                    "colfondos": 0.59
+                }
+            },
+            {
+                "initialDate": "30/06/2013",
+                "finalDate": "30/09/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.69,
+                    "porvenir": 0.73,
+                    "oldmutual": 0.95,
+                    "colfondos": 0.92
+                }
+            },
+            {
+                "initialDate": "31/07/2013",
+                "finalDate": "31/10/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.72,
+                    "porvenir": 0.70,
+                    "oldmutual": 0.84,
+                    "colfondos": 1.16
+                }
+            },
+            {
+                "initialDate": "31/08/2013",
+                "finalDate": "30/11/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.81,
+                    "porvenir": 1.32,
+                    "oldmutual": 0.91,
+                    "colfondos": 0.89
+                }
+            },
+            {
+                "initialDate": "30/09/2013",
+                "finalDate": "31/12/2013",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.76,
+                    "porvenir": 1.13,
+                    "oldmutual": 0.90,
+                    "colfondos": 0.81
+                }
+            },
+            {
+                "initialDate": "31/10/2013",
+                "finalDate": "31/01/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.76,
+                    "porvenir": 0.76,
+                    "oldmutual": 0.90,
+                    "colfondos": 0.82
+                }
+            },
+            {
+                "initialDate": "30/11/2013",
+                "finalDate": "28/02/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.75,
+                    "porvenir": 0.60,
+                    "oldmutual": 0.88,
+                    "colfondos": 0.75
+                }
+            },
+            {
+                "initialDate": "31/12/2013",
+                "finalDate": "31/03/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.84,
+                    "porvenir": 0.71,
+                    "oldmutual": 0.97,
+                    "colfondos": 0.74
+                }
+            },
+            {
+                "initialDate": "31/01/2014",
+                "finalDate": "30/04/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.84,
+                    "porvenir": 0.68,
+                    "oldmutual": 0.96,
+                    "colfondos": 0.69
+                }
+            },
+            {
+                "initialDate": "28/02/2014",
+                "finalDate": "31/05/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.83,
+                    "porvenir": 0.73,
+                    "oldmutual": 1.03,
+                    "colfondos": 0.68
+                }
+            },
+            {
+                "initialDate": "31/03/2014",
+                "finalDate": "30/06/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.76,
+                    "porvenir": 0.69,
+                    "oldmutual": 0.94,
+                    "colfondos": 0.65
+                }
+            },
+            {
+                "initialDate": "30/04/2014",
+                "finalDate": "31/07/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.74,
+                    "porvenir": 0.73,
+                    "oldmutual": 0.92,
+                    "colfondos": 0.68
+                }
+            },
+            {
+                "initialDate": "31/05/2014",
+                "finalDate": "31/08/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.81,
+                    "porvenir": 0.74,
+                    "oldmutual": 0.82,
+                    "colfondos": 0.73
+                }
+            },
+            {
+                "initialDate": "30/06/2014",
+                "finalDate": "30/09/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.83,
+                    "porvenir": 0.78,
+                    "oldmutual": 0.82,
+                    "colfondos": 0.76
+                }
+            },
+            {
+                "initialDate": "31/07/2014",
+                "finalDate": "31/10/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.90,
+                    "porvenir": 0.78,
+                    "oldmutual": 0.70,
+                    "colfondos": 0.82
+                }
+            },
+            {
+                "initialDate": "31/08/2014",
+                "finalDate": "30/11/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.74,
+                    "porvenir": 0.87,
+                    "oldmutual": 0.75,
+                    "colfondos": 0.92
+                }
+            },
+            {
+                "initialDate": "30/09/2014",
+                "finalDate": "31/12/2014",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.02,
+                    "porvenir": 0.75,
+                    "oldmutual": 0.83,
+                    "colfondos": 0.91
+                }
+            },
+            {
+                "initialDate": "31/10/2014",
+                "finalDate": "31/01/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.98,
+                    "porvenir": 0.79,
+                    "oldmutual": 1.00,
+                    "colfondos": 0.95
+                }
+            },
+            {
+                "initialDate": "30/11/2014",
+                "finalDate": "28/02/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.89,
+                    "porvenir": 0.82,
+                    "oldmutual": 0.92,
+                    "colfondos": 0.78
+                }
+            },
+            {
+                "initialDate": "31/12/2014",
+                "finalDate": "31/03/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.90,
+                    "porvenir": 0.84,
+                    "oldmutual": 0.99,
+                    "colfondos": 0.95
+                }
+            },
+            {
+                "initialDate": "31/01/2015",
+                "finalDate": "30/04/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.89,
+                    "porvenir": 0.82,
+                    "oldmutual": 0.93,
+                    "colfondos": 0.91
+                }
+            },
+            {
+                "initialDate": "28/02/2015",
+                "finalDate": "31/05/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.93,
+                    "porvenir": 0.86,
+                    "oldmutual": 0.97,
+                    "colfondos": 0.96
+                }
+            },
+            {
+                "initialDate": "31/03/2015",
+                "finalDate": "30/06/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.91,
+                    "porvenir": 0.84,
+                    "oldmutual": 0.91,
+                    "colfondos": 0.89
+                }
+            },
+            {
+                "initialDate": "30/04/2015",
+                "finalDate": "31/07/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.91,
+                    "porvenir": 0.88,
+                    "oldmutual": 0.94,
+                    "colfondos": 0.89
+                }
+            },
+            {
+                "initialDate": "31/05/2015",
+                "finalDate": "31/08/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.90,
+                    "porvenir": 0.87,
+                    "oldmutual": 0.91,
+                    "colfondos": 0.89
+                }
+            },
+            {
+                "initialDate": "30/06/2015",
+                "finalDate": "30/09/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.90,
+                    "porvenir": 0.87,
+                    "oldmutual": 0.91,
+                    "colfondos": 0.89
+                }
+            },
+            {
+                "initialDate": "31/07/2015",
+                "finalDate": "31/10/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 0.89,
+                    "porvenir": 0.86,
+                    "oldmutual": 0.82,
+                    "colfondos": 0.85
+                }
+            },
+            {
+                "initialDate": "31/08/2015",
+                "finalDate": "30/11/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.06,
+                    "porvenir": 1.09,
+                    "oldmutual": 0.87,
+                    "colfondos": 0.94
+                }
+            },
+            {
+                "initialDate": "30/09/2015",
+                "finalDate": "31/12/2015",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.21,
+                    "porvenir": 1.20,
+                    "oldmutual": 1.10,
+                    "colfondos": 1.09
+                }
+            },
+            {
+                "initialDate": "31/10/2015",
+                "finalDate": "31/01/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.37,
+                    "porvenir": 1.25,
+                    "oldmutual": 1.38,
+                    "colfondos": 1.18
+                }
+            },
+            {
+                "initialDate": "30/11/2015",
+                "finalDate": "29/02/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.40,
+                    "porvenir": 1.33,
+                    "oldmutual": 1.48,
+                    "colfondos": 1.35
+                }
+            },
+            {
+                "initialDate": "31/12/2015",
+                "finalDate": "31/03/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.49,
+                    "porvenir": 1.43,
+                    "oldmutual": 1.65,
+                    "colfondos": 1.46
+                }
+            },
+            {
+                "initialDate": "31/01/2016",
+                "finalDate": "30/04/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.51,
+                    "porvenir": 1.46,
+                    "oldmutual": 1.69,
+                    "colfondos": 1.47
+                }
+            },
+            {
+                "initialDate": "29/02/2016",
+                "finalDate": "31/05/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.62,
+                    "porvenir": 1.66,
+                    "oldmutual": 1.86,
+                    "colfondos": 1.56
+                }
+            },
+            {
+                "initialDate": "31/03/2016",
+                "finalDate": "30/06/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.67,
+                    "porvenir": 1.72,
+                    "oldmutual": 1.87,
+                    "colfondos": 1.62
+                }
+            },
+            {
+                "initialDate": "30/04/2016",
+                "finalDate": "31/07/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.77,
+                    "porvenir": 1.91,
+                    "oldmutual": 1.94,
+                    "colfondos": 1.75
+                }
+            },
+            {
+                "initialDate": "31/05/2016",
+                "finalDate": "31/08/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.79,
+                    "porvenir": 1.89,
+                    "oldmutual": 1.93,
+                    "colfondos": 1.87
+                }
+            },
+            {
+                "initialDate": "30/06/2016",
+                "finalDate": "30/09/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.84,
+                    "porvenir": 2.02,
+                    "oldmutual": 1.89,
+                    "colfondos": 1.92
+                }
+            },
+            {
+                "initialDate": "31/07/2016",
+                "finalDate": "31/10/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.87,
+                    "porvenir": 1.93,
+                    "oldmutual": 1.83,
+                    "colfondos": 1.95
+                }
+            },
+            {
+                "initialDate": "31/08/2016",
+                "finalDate": "30/11/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.20,
+                    "porvenir": 1.82,
+                    "oldmutual": 1.79,
+                    "colfondos": 1.74
+                }
+            },
+            {
+                "initialDate": "30/09/2016",
+                "finalDate": "31/12/2016",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.12,
+                    "porvenir": 1.62,
+                    "oldmutual": 1.95,
+                    "colfondos": 1.68
+                }
+            },
+            {
+                "initialDate": "31/10/2016",
+                "finalDate": "31/01/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 2.06,
+                    "porvenir": 1.62,
+                    "oldmutual": 1.91,
+                    "colfondos": 1.68
+                }
+            },
+            {
+                "initialDate": "30/11/2016",
+                "finalDate": "28/02/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.86,
+                    "porvenir": 1.65,
+                    "oldmutual": 1.90,
+                    "colfondos": 1.64
+                }
+            },
+            {
+                "initialDate": "31/12/2016",
+                "finalDate": "31/03/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.80,
+                    "porvenir": 1.69,
+                    "oldmutual": 1.73,
+                    "colfondos": 1.67
+                }
+            },
+            {
+                "initialDate": "31/01/2017",
+                "finalDate": "30/04/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.71,
+                    "porvenir": 1.61,
+                    "oldmutual": 1.66,
+                    "colfondos": 1.61
+                }
+            },
+            {
+                "initialDate": "28/02/2017",
+                "finalDate": "31/05/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.73,
+                    "porvenir": 1.66,
+                    "oldmutual": 1.65,
+                    "colfondos": 1.63
+                }
+            },
+            {
+                "initialDate": "31/03/2017",
+                "finalDate": "30/06/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.58,
+                    "porvenir": 1.51,
+                    "oldmutual": 1.60,
+                    "colfondos": 1.51
+                }
+            },
+            {
+                "initialDate": "30/04/2017",
+                "finalDate": "31/07/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.48,
+                    "porvenir": 1.41,
+                    "oldmutual": 1.54,
+                    "colfondos": 1.39
+                }
+            },
+            {
+                "initialDate": "31/05/2017",
+                "finalDate": "31/08/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.31,
+                    "porvenir": 1.22,
+                    "oldmutual": 1.36,
+                    "colfondos": 1.26
+                }
+            },
+            {
+                "initialDate": "30/06/2017",
+                "finalDate": "30/09/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.23,
+                    "porvenir": 1.16,
+                    "oldmutual": 1.26,
+                    "colfondos": 1.16
+                }
+            },
+            {
+                "initialDate": "31/07/2017",
+                "finalDate": "31/10/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.13,
+                    "porvenir": 1.16,
+                    "oldmutual": 1.12,
+                    "colfondos": 1.16
+                }
+            },
+            {
+                "initialDate": "31/08/2017",
+                "finalDate": "30/11/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.33,
+                    "porvenir": 1.61,
+                    "oldmutual": 1.24,
+                    "colfondos": 1.23
+                }
+            },
+            {
+                "initialDate": "30/09/2017",
+                "finalDate": "31/12/2017",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.18,
+                    "porvenir": 1.08,
+                    "oldmutual": 1.26,
+                    "colfondos": 1.20
+                }
+            },
+            {
+                "initialDate": "31/10/2017",
+                "finalDate": "31/01/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.12,
+                    "porvenir": 1.07,
+                    "oldmutual": 1.24,
+                    "colfondos": 1.17
+                }
+            },
+            {
+                "initialDate": "30/11/2017",
+                "finalDate": "28/02/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.08,
+                    "porvenir": 0.98,
+                    "oldmutual": 1.22,
+                    "colfondos": 0.97
+                }
+            },
+            {
+                "initialDate": "31/12/2017",
+                "finalDate": "31/03/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.12,
+                    "porvenir": 0.99,
+                    "oldmutual": 1.31,
+                    "colfondos": 0.99
+                }
+            },
+            {
+                "initialDate": "31/01/2018",
+                "finalDate": "30/04/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.07,
+                    "porvenir": 1.03,
+                    "oldmutual": 1.25,
+                    "colfondos": 0.95
+                }
+            },
+            {
+                "initialDate": "28/02/2018",
+                "finalDate": "31/05/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.14,
+                    "porvenir": 1.07,
+                    "oldmutual": 1.31,
+                    "colfondos": 0.96
+                }
+            },
+            {
+                "initialDate": "31/03/2018",
+                "finalDate": "30/06/2018",
+                "labels": [
+                    "Proteccion",
+                    "Porvenir",
+                    "Oldmutual",
+                    "Colfondos"
+                ],
+                "percent": {
+                    "proteccion": 1.04,
+                    "porvenir": 1.02,
+                    "oldmutual": 1.21,
+                    "colfondos": 0.92
+                }
+            }
+        ]
+    }
+}
