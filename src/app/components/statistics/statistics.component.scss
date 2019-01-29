@@ -1,0 +1,193 @@
+.form-options {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px auto;
+    max-width: 1200px;
+    min-width: 800px;
+
+    div {
+        margin: 0px 20px;
+    }
+
+    .price-section,
+    .option-section,
+    .initial-date-section,
+    .final-date-section {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+
+        label {
+            font-size: 18px;
+            margin-bottom: 8px;
+        }
+
+        input, select {
+            border: 1px solid gray;
+            padding: 8px;
+            font-size: 18px;
+        }
+    }
+
+    .price-section {
+        flex: 3;
+    }
+
+    .container-calendar {
+        position: relative;
+
+        .btn-calendar {
+            width: 50px;
+            height: 50px;
+            border-radius: 8px;
+            cursor: pointer;
+            background-color: #007bff;
+            border-color: #007bff;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+            i {
+                color: white;
+                font-size: 26px;
+            }
+        }
+
+        .calendar {
+            position: absolute;
+            right: 0px;
+            top: 0px;
+            width: 300px;
+            height: 400px;
+            border-radius: 8px;
+            background: rgb(245, 244, 244);
+            border: 0.5px solid rgb(201, 198, 198);
+            display: flex;
+            flex-direction: column;
+
+            .close-calendar {
+                position: absolute;
+                top: 0px;
+                right: 0px;
+                font-size: 28px;
+                font-family: Arial, Helvetica, sans-serif;
+                margin-top: 10px;
+                cursor: pointer;
+            }
+
+            .section-year {
+                height: 60px;
+                width: 100%;
+                margin: 40px 0px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                .prev-arrow,
+                .next-arrow {
+                    font-size: 34px;
+                    cursor: pointer;
+                }
+
+                input {
+                    border: none;
+                    background: transparent;
+                    font-size: 34px;
+                    width: 80px;
+                    text-align: center;
+                }
+            }
+
+            .section-months {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+
+                .month {
+                    padding: 12px;
+                    font-size: 21px;
+                    border-radius: 8px;
+                    border: 0.5px solid gray;
+                    margin: 6px 6px;
+                    width: 70px;
+                    text-align: center;
+                    font-family: sans-serif;
+                }
+
+                .month.active {
+                    background: rgba(54, 162, 235, 0.2);
+                    border: 0.5px solid rgba(54, 162, 235, 1);
+                    cursor: pointer;
+
+                    &:hover {
+                        background: rgba(54, 162, 235, 0.8);
+                    }
+                }
+
+                .month.disabled {
+                    background: rgba(138, 139, 140, 0.2);
+                    border: 0.5px solid #afadad;
+                    color: #afafaf;
+                    cursor: no-drop;
+                }
+            }
+        }
+    }    
+}
+.button-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    button {
+        color: #fff;
+        background-color: #007bff;
+        border-color: #007bff;
+        display: inline-block;
+        font-weight: 400;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        border: 1px solid transparent;
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        border-radius: .25rem;
+        transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+        text-transform: none;
+        font: 400 16px Arial;
+        cursor: pointer;
+
+        &:hover {
+            color: #fff;
+            background-color: #0069d9;
+            border-color: #0062cc;
+        }
+    }
+}
+
+.graphics {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50px auto;
+    align-items: center;
+
+    .bar-canvas,
+    .line-canvas {
+        width: 900px;
+        height: 500px;
+        display: flex;
+        justify-content: center;
+    }
+}
